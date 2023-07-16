@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @mhmdFawzy
 - 👀 I’m interested in JS/TS❤️,React, and Frontend development.
-- 🌱 I’m currently learning TS, and testing.
